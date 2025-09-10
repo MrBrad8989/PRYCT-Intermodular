@@ -9,7 +9,11 @@ El objetivo principal de este proyecto es integrar los conocimientos adquiridos 
 <details>
   <summary><b>PASOS YA REALIZADOS</b></summary>
   
-  - [X] Inicialización del Proyecto - ``ref - 10/09/2025``
+  | PASOS Y PROCESOS DEL PROYECTO | Fecha |
+  |-----------|-----------|
+  |  - [X] Inicialización del Proyecto - ``ref - 10/09/2025``    | 10/09/2025 |
+  | Dato D    | Ejemplo |
+  
   
 </details>
 
