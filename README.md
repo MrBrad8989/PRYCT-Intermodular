@@ -20,7 +20,7 @@ Se trata de una aplicación diseñada para demostrar competencias en:
 
 ---
 
-## 🛠️ Tecnologías y herramientas utilizadas
+### 🛠️ Tecnologías y herramientas utilizadas
 
 - **Lenguajes de programación**: Java / Kotlin / Python / etc.  
 - **Base de datos**: MySQL / MariaDB / SQLite / etc .  
@@ -30,7 +30,7 @@ Se trata de una aplicación diseñada para demostrar competencias en:
 
 ---
 
-## 🎯 Objetivos de aprendizaje
+### 🎯 Objetivos de aprendizaje
 
 Este proyecto busca reforzar y aplicar los siguientes aspectos:  
 
@@ -41,7 +41,7 @@ Este proyecto busca reforzar y aplicar los siguientes aspectos:
 
 ---
 
-## 📂 Estructura del repositorio
+### 📂 Estructura del repositorio
 
 - `src/` → Código fuente de la aplicación.  
 - `docs/` → Documentación del proyecto (diagramas, manuales, informes).  
@@ -51,7 +51,7 @@ Este proyecto busca reforzar y aplicar los siguientes aspectos:
 
 ---
 
-## 📌 Tablero de Trello
+#### 📌 Tablero de Trello
 
 Puedes seguir la organización y gestión del proyecto en nuestro tablero de **Trello**:  
 👉 [Ver Trello del proyecto ReFork](https://trello.com/invite/b/68c121987ca4c9e30557af7d/ATTI943ed28d25d39dee48b88836405d646212C167EB/pryct-refork)
