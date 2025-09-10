@@ -57,5 +57,5 @@ Proyecto realizado por **Remus Sabou** de **DAM 2º año** dentro de la asignatu
 
 ## 📌 Tablero de Trello
 
-Puedes seguir la organización y gestión del proyecto en nuestro tablero de Trello:  
+Puedes seguir la organización y gestión del proyecto en nuestro tablero de **Trello**:  
 👉 [Ver Trello del proyecto ReFork](https://trello.com/invite/b/68c121987ca4c9e30557af7d/ATTI943ed28d25d39dee48b88836405d646212C167EB/pryct-refork)
