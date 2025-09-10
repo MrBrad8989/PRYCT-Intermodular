@@ -3,7 +3,7 @@
 Proyecto intermodular desarrollado en el **2º curso del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
 
 El objetivo principal de este proyecto es integrar los conocimientos adquiridos en los diferentes módulos del curso, aplicándolos en un producto final completo y funcional.
-
+> Todo esto será un proyecto referente a una inicialización y toma de contacto con el PROYECTO final del Modulo.
 ---
 
 ## 🚀 Descripción del proyecto
