@@ -3,7 +3,17 @@
 Proyecto intermodular desarrollado en el **2º curso del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
 
 El objetivo principal de este proyecto es integrar los conocimientos adquiridos en los diferentes módulos del curso, aplicándolos en un producto final completo y funcional.
+
 > Todo esto será un proyecto referente a una inicialización y toma de contacto con el PROYECTO final del Modulo.
+
+<details>
+  <summary>Mostrar más</summary>
+  
+  - Proximamente.
+  
+</details>
+
+
 ---
 
 ## 🚀 Descripción del proyecto
@@ -51,13 +61,13 @@ Este proyecto busca reforzar y aplicar los siguientes aspectos:
 
 ---
 
-#### 📌 Tablero de Trello
+### 📌 Tablero de Trello
 
 Puedes seguir la organización y gestión del proyecto en nuestro tablero de **Trello**:  
 👉 [Ver Trello del proyecto ReFork](https://trello.com/invite/b/68c121987ca4c9e30557af7d/ATTI943ed28d25d39dee48b88836405d646212C167EB/pryct-refork)
 
 ---
 
-## 👥 Autores
+### 👥 Autores
 
 Proyecto realizado por **Remus Sabou** de **DAM 2º año** dentro de la asignatura de Proyecto Intermodular.  
