@@ -7,9 +7,9 @@ El objetivo principal de este proyecto es integrar los conocimientos adquiridos 
 > Todo esto será un proyecto referente a una inicialización y toma de contacto con el PROYECTO final del Modulo.
 
 <details>
-  <summary>Mostrar más</summary>
+  <summary>PASOS YA REALIZADO</summary>
   
-  - Proximamente.
+  - [X] Inicialización del Proyecto - ``ref - 10/09/2025``
   
 </details>
 
