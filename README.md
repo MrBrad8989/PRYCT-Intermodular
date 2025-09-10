@@ -11,7 +11,7 @@ El objetivo principal de este proyecto es integrar los conocimientos adquiridos 
   
   | PASOS Y PROCESOS DEL PROYECTO | Fecha |
   |-----------|-----------|
-  | ✅ Inicialización del Proyecto - ``ref - 10/09/2025``    | 10/09/2025 |
+  | ✅ Inicialización del Proyecto  | 10/09/2025 |
   |Dato D    | Ejemplo |
   
   
