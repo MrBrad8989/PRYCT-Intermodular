@@ -22,11 +22,11 @@ Se trata de una aplicación diseñada para demostrar competencias en:
 
 ## 🛠️ Tecnologías y herramientas utilizadas
 
-- **Lenguajes de programación**: Java / Kotlin / Python / (especificar según corresponda).  
-- **Base de datos**: MySQL / MariaDB / SQLite / (según lo que uses).  
+- **Lenguajes de programación**: Java / Kotlin / Python / etc.  
+- **Base de datos**: MySQL / MariaDB / SQLite / etc .  
 - **Entorno de desarrollo**: Visual Studio Code / IntelliJ / Android Studio / etc.  
 - **Control de versiones**: Git & GitHub.  
-- **Otras herramientas**: (añadir según el proyecto, ej. Docker, Postman, Figma, etc.).  
+- **Otras herramientas**: Proximamente.  
 
 ---
 
@@ -55,4 +55,7 @@ Este proyecto busca reforzar y aplicar los siguientes aspectos:
 
 Proyecto realizado por **Remus Sabou** de **DAM 2º año** dentro de la asignatura de Proyecto Intermodular.  
 
+## 📌 Tablero de Trello
 
+Puedes seguir la organización y gestión del proyecto en nuestro tablero de Trello:  
+👉 [Ver Trello del proyecto ReFork](https://trello.com/b/abcdef123/refork)
