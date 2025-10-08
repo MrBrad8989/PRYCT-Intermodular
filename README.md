@@ -72,6 +72,13 @@ Puedes seguir la organización y gestión del proyecto en nuestro tablero de **T
 
 ---
 
+### 🎓​ Casos de Uso
+Esta **imagen** presenta los casos de uso del **videojuego tipo Parchís**, que describen las interacciones principales entre los **actores del sistema** (Jugador e IA) y las **funcionalidades** que ofrece el juego.
+
+El objetivo de estos casos de uso es representar de **forma estructurada cómo el usuario y la inteligencia artificial interactúan** con el sistema, y cómo se aplican las reglas del juego durante la partida.
+
+<img width="801" height="464" alt="Diagrama-Caso-de-uso" src="https://github.com/user-attachments/assets/f515e330-1b86-45b2-a792-4cbad791c05e" />
+
 ### 👥 Autores
 
 Proyecto realizado por **Remus Sabou** de **DAM 2º año** dentro de la asignatura de Proyecto Intermodular.  
