@@ -82,6 +82,6 @@ El objetivo de estos casos de uso es representar de **forma estructurada cómo e
 
 ---
 
-### 👥 Autores
+### 👥 Autor
 
 Proyecto realizado por **Remus Sabou** de **DAM 2º año** dentro de la asignatura de Proyecto Intermodular.  
