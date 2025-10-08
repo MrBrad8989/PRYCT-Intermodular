@@ -79,6 +79,8 @@ El objetivo de estos casos de uso es representar de **forma estructurada cómo e
 
 <img width="801" height="464" alt="Diagrama-Caso-de-uso" src="https://github.com/user-attachments/assets/f515e330-1b86-45b2-a792-4cbad791c05e" />
 
+---
+
 ### 👥 Autores
 
 Proyecto realizado por **Remus Sabou** de **DAM 2º año** dentro de la asignatura de Proyecto Intermodular.  
