@@ -13,6 +13,7 @@ El objetivo principal de este proyecto es integrar los conocimientos adquiridos 
   |-----------|-----------|
   | ✅ Inicialización del Proyecto  | 10/09/2025 |
   | 📄 Diseño de GDD - Diseño del Juego | 24/09/2025 |
+  | 🎓​ DIseño de Casos de Uso | 08/10/2025 |
   
   
 </details>
