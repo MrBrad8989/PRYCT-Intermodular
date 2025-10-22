@@ -7,7 +7,7 @@ El objetivo principal de este proyecto es integrar los conocimientos adquiridos 
 > Todo esto será un proyecto referente a una inicialización y toma de contacto con el PROYECTO final del Modulo.
 
 <details>
-  <summary><b>PASOS YA REALIZADOS</b></summary>
+  <summary><b>PASOS YA REALIZADOS(CLICK)</b></summary>
   
   | PASOS Y PROCESOS DEL PROYECTO | Fecha |
   |-----------|-----------|
